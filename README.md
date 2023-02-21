@@ -1,9 +1,10 @@
 # psql_dbnormalization
-## _Course Management System
+
+## Course Management System
 
 This is a database schema and data for a course management system, consisting of tables for users, roles, courses, course videos, categories, and student courses. The schema is written in SQL for use with PostgreSQL.
 
-## _Schema Description
+## Schema Description
 
 ## The schema consists of the following tables:
 
